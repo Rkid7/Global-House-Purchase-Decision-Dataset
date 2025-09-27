@@ -6,12 +6,19 @@ In today's globalized world, understanding country-level metrics is crucial for 
 This report presents an in-depth analysis of a dataset featuring various country-level metrics. Our analysis reveals key trends, patterns, and insights into the characteristics of different nations. We identify top-performing countries in each category and provide recommendations for stakeholders.
 # Key Features
 1. Monthly Expenses: Top 10 countries with the highest monthly expenses.
+
 2. Property Size: Top 10 countries with the largest property sizes.
+
 3. Construction Year: Oldest and newest construction years.
+
 4. Previous Owners: Countries with the most previous owners.
+
 5. Connectivity Score: Top 10 countries with the highest connectivity scores.
+
 6. Customer Salary: Top 10 countries with the highest customer salaries.
+
 7. Number of Rooms: Top 10 countries with the highest number of rooms.
+
 # Key Findings
 1. Top Countries by Monthly Expenses*: Countries with high expenses tend to have strong economies and high standards of living.
   
